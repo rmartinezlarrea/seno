@@ -2,7 +2,7 @@
 
 ## Definición:
 
-Seno del ángulo B: es la razón entre el cateto (b) **opuesto** al ángulo y la **hipotenusa** (h).
+_Seno del ángulo B_: es la razón entre el cateto (b) **opuesto** al ángulo y la **hipotenusa** (a).
 
 <IMG SRC="4.gif">
 
