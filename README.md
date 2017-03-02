@@ -1,4 +1,4 @@
-#seno
+#Razones trigonométricas
 
-- [Grafico](https://rmartinezlarrea.github.io/seno/Grafico)
-<button onclick="myFunction()">Click me</button>
+- [Seno](https://rmartinezlarrea.github.io/seno/senos)
+<button onclick="https://rmartinezlarrea.github.io/seno/senos">Click me</button>
